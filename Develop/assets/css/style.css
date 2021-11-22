@@ -2,6 +2,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  font-size: 16px;
 }
 
 body {
@@ -21,7 +22,7 @@ header h1 {
   font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
   color: #d9dcd6;
 }
 
@@ -36,20 +37,22 @@ header nav {
 header nav ul {
   list-style-type: none;
 }
-
+/* added all the a selector property values into here */
 header nav ul li {
   display: inline-block;
   margin-left: 25px;
-}
-
-a {
   color: #ffffff;
   text-decoration: none;
 }
 
-p {
+/* a {
+  color: #ffffff;
+  text-decoration: none;
+} */
+/* because all the p font size is 16px, i added that into all, other font size can be superceded. */
+/* p {
   font-size: 16px;
-}
+} */
 
 .hero {
   height: 800px;
@@ -85,14 +88,15 @@ p {
   height: 100%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
-}
-
-.benefit-lead {
-  margin-bottom: 32px;
+  /* added font color in this selector */
   color: #ffffff;
 }
 
-.benefit-brand {
+.benefit {
+  margin-bottom: 32px;
+}
+/* Repetitive so merged them instead of creating a new class */
+/* .benefit-brand {
   margin-bottom: 32px;
   color: #ffffff;
 }
@@ -100,14 +104,15 @@ p {
 .benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
-}
+} */
 
-.benefit-lead h3 {
+/* all h3 tag under parent element of aside property values are same */
+.benefit h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
-.benefit-brand h3 {
+/* repetitive so merged them */
+/* .benefit-brand h3 {
   margin-bottom: 10px;
   text-align: center;
 }
@@ -115,25 +120,25 @@ p {
 .benefit-cost h3 {
   margin-bottom: 10px;
   text-align: center;
+} */
+/* repetitive so merged them */
+.benefit img {
+  display: block;
+  margin: 10px auto;
+  max-width: 150px;
 }
-
-.benefit-lead img {
+/* 
+.brand img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-.benefit-brand img {
+.cost img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-}
-
-.benefit-cost img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
+} */
 
 .search-engine-optimization {
   margin-bottom: 20px;
