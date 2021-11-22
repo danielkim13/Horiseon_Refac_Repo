@@ -21,9 +21,10 @@ header h1 {
   display: inline-block;
   font-size: 48px;
 }
-
+/* because font-size is global i head to ensure this selector has same font-size as header */
 .seo {
   color: #d9dcd6;
+  font-size: 48px;
 }
 
 header nav {
