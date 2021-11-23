@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, and git**
 
-- 👨‍💻This project is available at [https://github.com/danielkim13/Horiseon_Repo_Refactor](https://github.com/danielkim13/Horiseon_Repo_Refactor)
+- 👨‍💻This project is available at [https://github.com/danielkim13/Horiseon_Refac_Repo](https://github.com/danielkim13/Horiseon_Refac_Repo)
 
 - 💬 Ask me about **myself but if you want to know about coding, join the GWU Boot Camp!**
 
