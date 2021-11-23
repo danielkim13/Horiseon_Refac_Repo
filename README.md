@@ -36,7 +36,7 @@
     <li>When I view the structure of the HTML elements then I find that the elements follow a logical structure independent of styling and positioning.</li>
     <li>When I view the image elements then I find accessible alt attributes</li>
     <li>When I view the heading attributes then they fall in seqential order</li>
-    <li>When I ivew the title element then I find a concise, descriptive title</li>
+    <li>When I view the title element then I find a concise, descriptive title</li>
 </ul>
 
 <hr />
