@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Kim</h1>
 <h3 align="center">A passionate soon-to-be full-stack developer who is taking one step at a time to reach his goal.</h3>
 
-- 🔭 I’m currently working on [Horiseon Front Page Refactor](https://danielkim13.github.io/Horiseon_Repo_Refactor/)
+- 🔭 I’m currently working on [Horiseon Front Page Refactor](https://danielkim13.github.io/Horiseon_Refac_Repo/)
 
 - 🌱 I’m currently learning **HTML, CSS, and git**
 
